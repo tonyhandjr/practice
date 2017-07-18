@@ -1,0 +1,38 @@
+.happiness {
+  font-size: 40px;
+  color: blue;
+  float: right;
+}
+.form {
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+}
+#logo {
+  height: 70px;
+  min-width: 180px;
+  background-color: green;
+  margin-bottom: 50px;
+}
+#menu-wrap {
+  color: #ffffff !important;
+  text-decoration: none !important;
+  font-size: 30px,
+}
+.menu-1 {
+  font-size: 40px;
+  text-align: center;
+  font-style: strong;
+  color: pink;
+}
+.footer-1 {
+  background-color: red;
+  height: 30px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding-left: 10px;
+  padding-top: 15px;
+}

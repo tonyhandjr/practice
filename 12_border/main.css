@@ -1,0 +1,9 @@
+div {
+  width: 200px;
+  height: 200px;
+  border: 1px solid red;
+  border-radius: 100%;
+  background-image: url(../68015-Asuna-Sword-Art-Online-387x600.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
