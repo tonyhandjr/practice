@@ -1,0 +1,4 @@
+/*li:nth-child(10n+8) {*/
+li:nth-child(9n+3) {
+  color: red;
+}

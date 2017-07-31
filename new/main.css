@@ -1,0 +1,52 @@
+.nl {
+  background: blue;
+  width: 730px;
+  height: 325px;
+  padding: 50px 0;
+  overflow: hidden;
+}
+.wrp nl {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 2%;
+  margin: 0 auto;
+}
+.left {
+  float: left;
+  width: 71%;
+  margin: 0;
+  padding: 0;
+}
+.right {
+  float: right;
+  width: 29%;
+  color: #fff !important;
+  margin: 0;
+  padding: 0;
+}
+.upp {
+  color: #fff !important;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  margin: 0 10px 10px 0;
+}
+input {
+  height: 33px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 4% 0 4% 7%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  vertical-align: middle;
+  display: inline-block;
+}
+.btn {
+  width: 100%;
+  /*margin: 0 auto;*/
+}
+.btn_green {
+  background-color: green;
+  width: 100%;
+  /*margin: 0 auto;*/
+  border-radius: 20px;
+}
