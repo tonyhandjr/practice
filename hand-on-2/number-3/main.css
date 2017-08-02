@@ -1,3 +1,22 @@
-#red {
+[target] {
+  border: 1px solid black;
+}
+
+a:link {
+  color: green;
+}
+a:anchor {
+  color: black;
+}
+a:hover {
+  color: blue;
+}
+a:active {
+  color: yellow;
+}
+div:first-letter {
+  color: green;
+}
+div:first-line {
   color: red;
 }

@@ -1,0 +1,14 @@
+p {
+  font-size: 18px;
+}
+div {
+  padding: 10px;
+}
+a {
+  margin: 0 auto;
+  color: green;
+  display: block;
+}
+p:first-line {
+  color: red;
+}
